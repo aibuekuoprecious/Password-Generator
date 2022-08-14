@@ -1,0 +1,55 @@
+﻿html, body {
+    margin: 23px 10.4px;
+    padding: 0px;
+    background-color: #1F2937;
+    }
+.genPass{font-family: karla;
+    font-size: 40px;
+    line-height: 86%;
+    margin-right: 14.4px;
+    margin-bottom: 10px;  }
+#gen{color:#FFFFFF;}
+#pass{color:#4ADF86;}
+#info{color: #D5D4D8;
+    line-height:28px;
+    font-size: 21.5px;
+    margin-top: 0px;
+    margin-bottom:60px;
+    font-family: inter;
+   }
+#genButton{background-color: #10B981;
+    margin: 0px;
+    border-radius:6px;
+    width:auto;
+    height:auto;
+    font-size: 16px;
+    font-family: inter;
+    line-height: 124%;
+    padding: 9px 17px 9px 15px;
+    border: none;
+    color:#FFFFFF;}
+#line{margin: 35px 0px;
+    width: 446px;
+    height: 0px;
+    border: solid;
+    border-color: #2F3E53;
+}
+input{ width: 211px;
+    height: 39px;
+    border: solid;
+    font-family: inter;
+    font-size: 16px;
+    line-height: 165%;
+    text-align: center;
+    margin: 0px 24px 0px 0px;
+    background-color: #273549;
+    border-radius:6px;
+    border: none;
+    color:#55F991;
+    }
+input::-webkit-input-placeholder{ font-family: inter;
+    font-size: 16px;
+    line-height: 165%;
+   color:#55F991;
+   } 
+.display{display: flex;}
